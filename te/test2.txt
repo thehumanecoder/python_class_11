@@ -1,0 +1,9 @@
+hello world this is a test text
+
+
+
+
+
+this is a new line i am adding to make a new file 
+
+the default extension is .txt so you can open it in other IDE and Text Editors also
